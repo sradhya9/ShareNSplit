@@ -1,15 +1,15 @@
-# Trip Expense Splitter
+# ShareNSplit
 ## Overview
 The Trip Expense Splitter is a Python-based application designed to simplify and manage group expenses during a trip. It allows users to log in, enter expense details at different stops, calculate balances, and determine settlements among group members. The project aims to make expense tracking easy and transparent for all participants.
 
 ## Features
-Login System: Supports user registration and login for personalized access.
-Expense Tracking: Records expenses for each stop, including amounts paid and received by each member.
-Balance Calculation: Automatically calculates balances for all members based on their contributions and shares.
-Settlement Details: Provides detailed settlement instructions to equalize the expenses among group members.
-Technologies Used
-Python: Core programming language used to build the application.
-Data Structures: Used dictionaries and lists for efficient data handling and calculations.
+- Login System: Supports user registration and login for personalized access.
+- Expense Tracking: Records expenses for each stop, including amounts paid and received by each member.
+- Balance Calculation: Automatically calculates balances for all members based on their contributions and shares.
+- Settlement Details: Provides detailed settlement instructions to equalize the expenses among group members.
+- Technologies Used
+- Python: Core programming language used to build the application.
+- Data Structures: Used dictionaries and lists for efficient data handling and calculations.
 
 ## How It Works
 ### Step 1: User Login
